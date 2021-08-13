@@ -1,0 +1,98 @@
+{ 
+  "pcGames":[
+        {
+          "id": 1,
+          "picture": "https://s1.gaming-cdn.com/images/products/1152/orig/ragnarok-online-starter-pack-cover.jpg",
+          "title": "Ragnarok",
+          "description": "Massively multiplayer online role-playing game",
+          "price": "$9.99"
+        }, 
+        {
+          "id": 2,
+          "picture": "https://images-na.ssl-images-amazon.com/images/I/51kF8iw%2BmPL._AC_.jpg",
+          "title": "Left 4 Dead 2",
+          "description": "Cooperative first-person shooter survival horror video games",
+          "price": "$9.99"
+        },
+        {
+          "id": 3,
+          "picture": "https://cdn1.dotesports.com/wp-content/uploads/2019/09/12195522/league-of-legends.jpg",
+          "title": "League of Legends",
+          "description": "Multiplayer online battle arena video game",
+          "price": "$5.00"
+        }
+    ],
+    "ps4Games": 
+    [
+      {
+        "id": 1,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/A1bNZpa5DXL._SX385_.jpg",
+        "title": "Kingdom Hearts 3",
+        "description": "Action role-playing game",
+        "price": "$19.99"
+      }, 
+      {
+        "id": 2,
+        "picture": "https://media.gamestop.com/i/gamestop/10146553/Persona-5",
+        "title": "Persona 5",
+        "description": "Role-playing video game",
+        "price": "$19.99"
+      },
+      {
+        "id": 3,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/81aEa8zePHL._SX342_.jpg",
+        "title": "Persona 5 Strikers",
+        "description": "Action role-playing game",
+        "price": "$59.99"
+      }
+    ],
+    "pspGames": 
+    [
+      {
+        "id": 1,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/51xBw7TfQwL._SY445_.jpg",
+        "title": "Kingdom Hearts Birth by Sleep",
+        "description": "Action role-playing video game",
+        "price": "$9.99"
+      }, 
+      {
+        "id": 2,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/81yTRFRr23L._SL1500_.jpg",
+        "title": "Persona 3 Portable",
+        "description": "Role-playing video game",
+        "price": "$9.99"
+      },
+      {
+        "id": 3,
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/DJ_Max_Fever_Coverart.png/220px-DJ_Max_Fever_Coverart.png",
+        "title": "DJMax Portable",
+        "description": "Music video game",
+        "price": "$9.99"
+      }
+    ],
+    "switchGames":
+    [
+      {
+        "id": 1,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/81KGsbq8ekL._SL1500_.jpg",
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "description": "Action-adventure game",
+        "price": "$59.99"
+      }, 
+      {
+        "id": 2,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/817KFp1wiOL._SL1500_.jpg",
+        "title": "Fire Emblem: Three Houses",
+        "description": "Tactical role-playing game",
+        "price": "$59.99"
+      },
+      {
+        "id": 3,
+        "picture": "https://media.gamestop.com/i/gamestop/11097187/Ring-Fit-Adventure",
+        "title": "Ring Fit",
+        "description": "Exercising action role-playing game",
+        "price": "$79.99"
+      }
+    ]
+
+}
