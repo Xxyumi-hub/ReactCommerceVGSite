@@ -1,3 +1,9 @@
+This is a SPA built with React that acts as a e-commerce site that has my favorite games plus my contact details. The site is styled with CSS and Material UI and uses React's BrowserRouter doing client side routing 
+<img src="https://github.com/Xxyumi-hub/ReactCommerceVGSite/blob/main/gif.gif">
+
+To run this project:
+Download the folder and run "npm start" in the terminal
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
